@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "notetakerreactawsamp-dev-20190818232744-authRole",
+            "UnauthRoleArn": "arn:aws:iam::693705428417:role/notetakerreactawsamp-dev-20190818232744-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::693705428417:role/notetakerreactawsamp-dev-20190818232744-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "notetakerreactawsamp-dev-20190818232744-deployment",
+            "UnauthRoleName": "notetakerreactawsamp-dev-20190818232744-unauthRole",
+            "StackName": "notetakerreactawsamp-dev-20190818232744",
+            "StackId": "arn:aws:cloudformation:us-west-2:693705428417:stack/notetakerreactawsamp-dev-20190818232744/b0fe96f0-c239-11e9-8640-0254f5c7f298"
+        },
+        "categories": {
+            "auth": {
+                "notetakerreactawsampbe5fb25a": {}
+            }
+        }
+    }
+}
